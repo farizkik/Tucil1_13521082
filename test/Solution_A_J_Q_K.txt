@@ -1,0 +1,38 @@
+Cards chosen are: A J Q K 
+
+32 solutions found
+
+A*((K-J)*Q)
+(A*(K-J))*Q
+((A*K)-J)*Q
+(A*Q)*(K-J)
+A*(Q*(K-J))
+(K-(A*J))*Q
+((K*A)-J)*Q
+((K/A)-J)*Q
+(K-J)*(A*Q)
+(K-(J*A))*Q
+((K-J)*A)*Q
+(K-(J/A))*Q
+((K-J)/A)*Q
+(K-J)/(A/Q)
+(K-J)*(Q*A)
+((K-J)*Q)*A
+(K-J)*(Q/A)
+((K-J)*Q)/A
+(Q*A)*(K-J)
+Q*((A*K)-J)
+Q*(A*(K-J))
+(Q/A)*(K-J)
+Q/(A/(K-J))
+Q*(K-(A*J))
+Q*((K*A)-J)
+Q*((K/A)-J)
+Q*((K-J)*A)
+Q*(K-(J*A))
+(Q*(K-J))*A
+Q*((K-J)/A)
+Q*(K-(J/A))
+(Q*(K-J))/A
+
+Time elapsed: 0.568 milliseconds

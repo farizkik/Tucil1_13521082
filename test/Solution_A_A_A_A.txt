@@ -1,0 +1,6 @@
+Cards chosen are: A A A A 
+
+0 solutions found
+
+
+Time elapsed: 0.041 milliseconds

@@ -1,0 +1,7 @@
+Cards chosen are: 10 10 5 5 
+
+1 solutions found
+
+(5*5)-(10/10)
+
+Time elapsed: 0.488 milliseconds
